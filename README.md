@@ -41,10 +41,4 @@ Welcome to my corner of GitHub! I'm a passionate Flutter developer 🦋, current
 
 ---
 
-### Here's a Joke for You
-
-Why do programmers prefer dark mode? Because light attracts bugs! 🐞
-
----
-
 Thanks for stopping by! Happy coding! 🎉
