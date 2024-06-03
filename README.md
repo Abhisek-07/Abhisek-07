@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Abhisek Dash 👋
 
 Welcome to my corner of GitHub! I'm a passionate Flutter developer 🦋, currently dabbling in the world of Spring Boot 🌱 and dreaming about AI domination 🤖.
 
@@ -38,11 +38,6 @@ Welcome to my corner of GitHub! I'm a passionate Flutter developer 🦋, current
 ### Random Dev Quote
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things." – Phil Karlton
-
----
-
-### My GitHub Stats
-
 
 ---
 
