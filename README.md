@@ -15,8 +15,7 @@ Welcome to my corner of GitHub! I'm a passionate Flutter developer 🦋, current
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abhisek-dash-b566b6195/)
-- [Instagram](https://www.instagram.com/__abhisek_7/)
-
+  
 ---
 
 Thanks for stopping by! Happy coding! 🎉
